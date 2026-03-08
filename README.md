@@ -1,16 +1,33 @@
-# React + Vite
+# K72 Agency - Web Clone / Inspired Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1899" height="977" alt="Screenshot 2026-03-08 192836" src="https://github.com/user-attachments/assets/1dfd963c-8a79-4907-b5bd-90b00fb8eecd" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
+This project is a front-end web application inspired by [K72](https://k72.ca/), a creative brand-building agency. The goal of this project is to showcase modern web development techniques, smooth UI/UX, and a design philosophy that focuses on building brands for the long term. 
 
-## React Compiler
+Just like K72, this project aims to step out of the comfort zone to deliver a digital experience infused with real feeling, transparency, and high-quality creative design.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🔗 Links
+* **Live Demo:**[https://k72.ca/](https://k72.ca/)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack Built With
+*(Edit this section based on what you actually used)*
+* **Framework / Core:** React.js / Vite / HTML5
+* **Styling:** Tailwind CSS / CSS3
+* **Animations:** GSAP / Framer Motion / Three.js 
+* **Deployment:** Vercel / Netlify / GitHub Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Key Features
+* **Modern & Minimalist UI:** Recreated the sleek, agency-level user interface.
+* **Responsive Design:** Fully optimized for desktop, tablet, and mobile devices.
+* **Smooth Animations:** High-quality transitions and interactive elements to generate "the spark for all things creative."
+* **Optimized Performance:** Fast loading times and semantic HTML structure.
+
+## 💻 Running the Project Locally
+
+If you want to run this project on your local machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   https://github.com/NipunKushwaha-web/K72
