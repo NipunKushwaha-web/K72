@@ -6,7 +6,7 @@
 ## 🚀 Overview
 This project is a front-end web application inspired by [K72](https://k72.ca/), a creative brand-building agency. The goal of this project is to showcase modern web development techniques, smooth UI/UX, and a design philosophy that focuses on building brands for the long term. 
 
-Just like K72, this project aims to step out of the comfort zone to deliver a digital experience infused with real feeling, transparency, and high-quality creative design.
+Just like K72.ca, this project aims to step out of the comfort zone to deliver a digital experience infused with real feeling, transparency, and high-quality creative design.
 
 ## 🔗 Links
 * **Live Demo:**[https://k72.ca/](https://k72.ca/)
